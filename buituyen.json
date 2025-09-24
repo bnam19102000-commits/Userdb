@@ -18,7 +18,7 @@
         "username": "BuiTuyenAdmin",
         "password": "19102009",
         "expirydate": "15-06-2099",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "9833f9ca3e12b37c",
